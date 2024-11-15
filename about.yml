@@ -2,10 +2,11 @@
 name: Roman Ivanenkov
 job: QA Engineer
 level: junior
-email: ivanro@mail.ru
+email: roman@hexlet.io
 description: |
   Живу и работаю в городе Невинномысске, Ставропольский край.
   Работаю инженером (специалистом по ТОиР) на АО "Невинномысский Азот" Еврохим.
 skills:
   - ручное тестирование
-  - написание багрепортов
+  - багрепорты
+  - Linux
